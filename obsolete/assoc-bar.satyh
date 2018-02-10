@@ -1,6 +1,6 @@
 let-row ctx \emph inner =
   let ctx-emph =
-    ctx |> set-font (Latin) (font `ArnoIt` 12pt)
+    ctx |> set-font (Latin) (font `CrimsonTextIt` 12pt)
         |> set-font (HanIdeographic) (font `ipaexg` 10pt)
         |> set-font (Kana) (font `ipaexg` 10pt)
   in

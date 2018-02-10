@@ -3,8 +3,8 @@
   "KozMin": <Single: {"src-dist": "KozMinPro-Regular.otf"}>,
   "ipaexm": <Single: {"src-dist": "ipaexm.ttf"}>,
   "ipaexg": <Single: {"src-dist": "ipaexg.ttf"}>,
-  "Arno"  : <Single: {"src-dist": "ArnoPro-Regular.otf"}>,
-  "ArnoIt": <Single: {"src-dist": "ArnoPro-Italic.otf"}>,
+  "CrimsonText"  : <Single: {"src-dist": "CrimsonText-Regular.ttf"}>,
+  "CrimsonTextIt": <Single: {"src-dist": "CrimsonText-Italic.ttf"}>,
   "lmmono": <Single: {"src-dist": "lmmono10-regular.otf"}>,
   "lmsans": <Single: {"src-dist": "lmsans10-regular.otf"}>
 }
