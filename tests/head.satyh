@@ -19,7 +19,7 @@ let font-ratio-cjk = 0.88
 
 let font-latin-roman  = (`Arno`  , font-ratio-latin, 0.)
 let font-latin-italic = (`ArnoIt`, font-ratio-latin, 0.)
-let font-latin-sans   = (`Hlv`   , font-ratio-latin, 0.)
+let font-latin-sans   = (`Coolvetica`   , font-ratio-latin, 0.)
 let font-latin-mono   = (`lmmono`, font-ratio-latin, 0.)
 let font-cjk-mincho   = (`ipaexm`, font-ratio-cjk  , 0.)
 let font-cjk-gothic   = (`ipaexg` , font-ratio-cjk  , 0.)
