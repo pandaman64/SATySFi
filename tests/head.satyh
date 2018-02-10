@@ -19,7 +19,7 @@ let font-ratio-cjk = 0.88
 
 let font-latin-roman  = (`CrimsonText`  , font-ratio-latin, 0.)
 let font-latin-italic = (`CrimsonTextIt`, font-ratio-latin, 0.)
-let font-latin-sans   = (`Coolvetica`   , font-ratio-latin, 0.)
+let font-latin-sans   = (`OpenSans`   , font-ratio-latin, 0.)
 let font-latin-mono   = (`lmmono`, font-ratio-latin, 0.)
 let font-cjk-mincho   = (`ipaexm`, font-ratio-cjk  , 0.)
 let font-cjk-gothic   = (`ipaexg` , font-ratio-cjk  , 0.)

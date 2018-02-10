@@ -74,7 +74,7 @@ end = struct
 
   let font-latin-roman  = (`CrimsonText`  , font-ratio-latin, 0.)
   let font-latin-italic = (`CrimsonTextIT`, font-ratio-latin, 0.)
-  let font-latin-sans   = (`Coolvetica`, font-ratio-latin, 0.)
+  let font-latin-sans   = (`OpenSans`, font-ratio-latin, 0.)
   let font-cjk-mincho   = (`ipaexm`, font-ratio-cjk  , 0.)
   let font-cjk-gothic   = (`ipaexg` , font-ratio-cjk  , 0.)
 
