@@ -1,10 +1,11 @@
 {
   "OpenSans": <Single: {"src-dist": "OpenSans-Regular.ttf"}>,
-  "KozMin": <Single: {"src-dist": "KozMinPro-Regular.otf"}>,
-  "ipaexm": <Single: {"src-dist": "ipaexm.ttf"}>,
-  "ipaexg": <Single: {"src-dist": "ipaexg.ttf"}>,
   "CrimsonText"  : <Single: {"src-dist": "CrimsonText-Regular.ttf"}>,
   "CrimsonTextIt": <Single: {"src-dist": "CrimsonText-Italic.ttf"}>,
-  "lmmono": <Single: {"src-dist": "lmmono10-regular.otf"}>,
-  "lmsans": <Single: {"src-dist": "lmsans10-regular.otf"}>
+  "ipaexm"    : <Single: {"src-dist": "ipaexm.ttf"}>,
+  "ipaexg"    : <Single: {"src-dist": "ipaexg.ttf"}>,
+  "lmroman"   : <Single: {"src-dist": "lmroman10-regular.otf"}>,
+  "lmroman-it": <Single: {"src-dist": "lmroman10-italic.otf"}>,
+  "lmmono"    : <Single: {"src-dist": "lmmono10-regular.otf"}>,
+  "lmsans"    : <Single: {"src-dist": "lmsans10-regular.otf"}>,
 }
