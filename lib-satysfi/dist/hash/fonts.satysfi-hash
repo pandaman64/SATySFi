@@ -7,5 +7,5 @@
   "lmroman"   : <Single: {"src-dist": "lmroman10-regular.otf"}>,
   "lmroman-it": <Single: {"src-dist": "lmroman10-italic.otf"}>,
   "lmmono"    : <Single: {"src-dist": "lmmono10-regular.otf"}>,
-  "lmsans"    : <Single: {"src-dist": "lmsans10-regular.otf"}>,
+  "lmsans"    : <Single: {"src-dist": "lmsans10-regular.otf"}>
 }
