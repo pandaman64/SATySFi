@@ -13,7 +13,8 @@ OCB_FLAGS = -cflags -unsafe-string -cflag -w -cflag -3 \
 	-pkgs "ppx_deriving.show,core_kernel,result,uutf,bitv,batteries, \
 	menhirLib,yojson,camlimages,camlimages.jpeg" \
 	-tag thread -yaccflags "--table --explain" \
-	-lflags "flatestubs.c rijndael-alg-fst.c stubs-aes.c sha2.c stubs-sha2.c"
+	-lflags "flatestubs.c rijndael-alg-fst.c stubs-aes.c sha2.c stubs-sha2.c" \
+	-r
 TARGET=satysfi
 OCB = ocamlbuild $(OCB_FLAGS)
 BINDIR=$(PREFIX)/bin
